@@ -1,0 +1,15 @@
+bcrypt
+blinker
+click
+dnspython
+Flask
+Flask-PyMongo
+itsdangerous
+Jinja2
+MarkupSafe
+pymongo
+python-dateutil
+python-dotenv
+six
+Werkzeug
+flask_pymongo
